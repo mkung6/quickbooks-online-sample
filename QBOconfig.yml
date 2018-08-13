@@ -9,6 +9,6 @@ Constant:
   response_type: code
   grant_type: authorization_code
 Settings:
-  host_uri: http://46481c53.ngrok.io/#!/
-  redirect_uri: http://46481c53.ngrok.io/#!/invoices/qbo/
+  host_uri: #
+  redirect_uri: #
   state: randomState
